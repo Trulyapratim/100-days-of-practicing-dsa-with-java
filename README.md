@@ -1,0 +1,2 @@
+# 100-days-of-practicing-dsa-with-java
+This is a 100 day challenge of learning and practicing dsa with the language of java. In the period of 100 days start with learning the language of java and then gradually move toward the problem solving. Try to learn the patterns and try to solve problem each and every day. 
