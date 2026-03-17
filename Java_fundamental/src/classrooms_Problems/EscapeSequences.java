@@ -11,6 +11,5 @@ public class EscapeSequences {
         System.out.println("\\");
         System.out.println("\"");
         System.out.println("\'");
-        System.out.println();
     }
 }
